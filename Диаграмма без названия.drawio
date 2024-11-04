@@ -75,6 +75,18 @@
             <mxPoint x="131" y="149" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4Yv4w1ldaMEZDNmSyz41-61" value="Критичный" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#d79b00;align=center;verticalAlign=middle;swimlaneFillColor=none;fontFamily=Times New Roman;fontSize=19;fontStyle=4;fillColor=#FF3333;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Yv4w1ldaMEZDNmSyz41-62" value="Средний" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#d79b00;align=center;verticalAlign=middle;swimlaneFillColor=none;fontFamily=Times New Roman;fontSize=19;fontStyle=4;fillColor=#663300;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Yv4w1ldaMEZDNmSyz41-63" value="Низкий" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#d79b00;align=center;verticalAlign=middle;swimlaneFillColor=none;fontFamily=Times New Roman;fontSize=19;fontStyle=4;fillColor=#003300;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Yv4w1ldaMEZDNmSyz41-64" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Нераспределенные&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;strokeColor=none;align=center;verticalAlign=middle;swimlaneFillColor=none;fontFamily=Times New Roman;fontSize=17;fontStyle=3;fillColor=#bac8d3;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="186" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
